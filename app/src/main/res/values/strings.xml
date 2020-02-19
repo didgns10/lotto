@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lotto</string>
+    <string name="admob_app_id">ca-app-pub-5222918235744279~1981202211</string>
+    <string name="admob_app_id_test">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5222918235744279/8924232124</string>
+    <string name="banner_ad_reword_id">ca-app-pub-5222918235744279/7469526130</string>
+    <string name="banner_ad_frond_id">ca-app-pub-5222918235744279/2157489700</string>
+
+
+    <string name="banner_ad_frond_id_test">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_reword_id_test">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
